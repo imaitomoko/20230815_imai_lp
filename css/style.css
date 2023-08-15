@@ -73,7 +73,7 @@ a {
 }
 
 .news__ttl {
-    margin: 0 200px 10px 200px;
+    margin: 0 0 10px 180px;
 }
 
 .news__ttl--english {
@@ -190,7 +190,9 @@ a {
 }
 
 .service__ttl {
-    margin-left: 150px;
+    margin: 0 auto;
+    width: 900px;
+
 }
 
 .service__ttl--english {
@@ -320,9 +322,8 @@ a {
 }
 
 .blog__ttl {
-    margin-left: 150px;
-    padding-bottom: 20px;
-    padding-left: 20px;
+    margin: 20px auto;
+    width: 900px;
 }
 
 .blog__ttl--english {
@@ -405,14 +406,12 @@ a {
 }
 
 .company {
-    padding: 20px 0;
-    margin-bottom: 50px;
+    margin-bottom: 60px;
 }
 
 .company__ttl {
-    margin-left: 250px;
-    padding-bottom: 20px;
-    padding-left: 20px;
+    width: 700px;
+    margin: 20px auto;
 }
 
 .company__ttl--english {
